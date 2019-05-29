@@ -6,4 +6,6 @@ pepper
 1/2 tomato
 more!
 
-to githun
+to github
+
+to local git
